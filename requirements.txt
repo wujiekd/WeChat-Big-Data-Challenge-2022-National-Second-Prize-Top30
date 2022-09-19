@@ -1,0 +1,10 @@
+coscmd
+numpy
+sklearn
+tqdm
+timm
+pandas
+onnx
+#pycuda==2020.1
+onnx-simplifier
+transformers>=4.0.0
